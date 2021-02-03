@@ -1,0 +1,11 @@
+apache-airflow
+googleads
+google-cloud-storage
+numpy
+openpyxl
+pandas
+pathlib
+psycopg2-binary
+requests
+supervisor
+pandas-gbq
